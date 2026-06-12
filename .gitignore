@@ -6,3 +6,5 @@ __pycache__/
 .venv/
 venv/
 ecommerce_harvest.db
+Execution_Log.txt
+*.log
