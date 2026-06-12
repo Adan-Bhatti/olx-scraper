@@ -1,0 +1,191 @@
+2026-06-13 04:01:01,323 | INFO | Starting OLX Pakistan scraper | keyword='smartphones' | target=5 | workers=4 (ThreadPoolExecutor)
+2026-06-13 04:01:05,320 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/ | found=33 | new=33 | saved=0/5
+2026-06-13 04:01:11,152 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=2 | found=33 | new=32 | saved=2/5
+2026-06-13 04:01:14,024 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/rn-waterproof-mobile-pouch-for-all-smartphones-up-to-6-5-inches-compatible-with-iphone-samsung-mi-redmi-oppo-vivo-black-iid-ev452021-1
+2026-06-13 04:01:16,170 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=3 | found=33 | new=32 | saved=6/5
+2026-06-13 04:01:16,172 | INFO | Waiting for remaining worker tasks (58 pending)...
+2026-06-13 04:01:17,310 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/rn-universal-phone-clip-bracket-holder-for-tripods-mobile-phone-holder-selfie-stick-monopod-stand-for-smartphones-iid-ev451089-1
+2026-06-13 04:01:20,963 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/hohem-isteady-q-gimbal-for-smartphones-with-removable-remote-control-iid-ev210314-1
+2026-06-13 04:01:21,267 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/jmary-mt-33-video-cage-rig-kit-for-vlogging-and-photography-iid-ev367043-1
+2026-06-13 04:01:23,326 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/by-m1-pro-lavalier-microphone-boya-universal-clip-on-mic-for-smartphones-dslrs-camcorders-and-pcs-iid-ev532187-1
+2026-06-13 04:01:24,377 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/rubian-pack-of-2-waterproof-pouch-for-mobiles-pink-iid-ev525209-1
+2026-06-13 04:01:27,712 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/boya-by-m1-pro-ii-omnidirectional-lavalier-microphone-with-noise-cancellation-and-monitoring-port-for-youtube-tiktok-interviews-and-dslr-cameras-iid-ev210163-1
+2026-06-13 04:01:28,655 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/stereo-woofer-handsfree-white-iid-ev525283-1
+2026-06-13 04:01:28,741 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/phone-holder-for-car-dashboard-clip-mount-for-mobile-devices-gps-and-smartphones-iid-ev264220-1
+2026-06-13 04:01:57,772 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/universal-instrument-panel-car-holder-black-iid-ev248744-1
+2026-06-13 04:02:00,145 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/wooden-adjustable-mobile-stand-foldable-desk-phone-holder-ergonomic-dock-for-smartphones-tablets-iid-ev365186-1
+2026-06-13 04:02:01,306 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/rn-mini-metal-folding-phone-holder-universal-invisible-foldable-stand-mount-for-smartphones-and-tablets-iid-ev451344-1
+2026-06-13 04:02:02,241 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/rubian-waterproof-phone-pouch-pink-iid-ev525263-1
+2026-06-13 04:02:05,012 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/ultra-7-in-1-straps-smartwatch-45mm-for-men-and-women-iid-ev450198-1
+2026-06-13 04:02:05,259 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/black-universal-instrument-panel-car-phone-holder-iid-ev355220-1
+2026-06-13 04:02:06,953 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/universal-360-car-phone-holder-mount-dashboard-windshield-stand-strong-suction-grip-iid-ev493738-1
+2026-06-13 04:02:07,921 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/flexible-mobile-holder-with-long-arm-and-360-rotating-design-necklace-smartphone-stand-for-iphone-and-android-iid-ev368444-1
+2026-06-13 04:02:09,096 | WARNING | Could not determine product_id for https://www.olx.com.pk/item/samsang-oppo-wireless-bluetooth-headset-for-smartphones-compatible-with-iphone-huawei-and-others-iid-ev305731-1
+2026-06-13 04:02:33,966 | INFO | ============================================================
+2026-06-13 04:02:33,966 | INFO | SCRAPE COMPLETE
+2026-06-13 04:02:33,967 | INFO | Concurrency: ThreadPoolExecutor with 4 workers
+2026-06-13 04:02:33,967 | INFO | Pages crawled: 3
+2026-06-13 04:02:33,967 | INFO | Detail tasks submitted: 65
+2026-06-13 04:02:33,967 | INFO | Products saved (this run): 46
+2026-06-13 04:02:33,967 | INFO | Errors skipped: 18
+2026-06-13 04:02:33,967 | INFO | Visited URLs (session): 67
+2026-06-13 04:02:33,967 | INFO | Final DB counts -> products: 46 | product_images: 990
+2026-06-13 04:02:33,967 | INFO | Elapsed time: 92.6 seconds (1.5 minutes)
+2026-06-13 04:02:33,968 | INFO | ============================================================
+2026-06-13 04:02:54,987 | INFO | Starting OLX Pakistan scraper | keyword='smartphones' | target=1000 | workers=8 (ThreadPoolExecutor)
+2026-06-13 04:02:58,743 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/ | found=33 | new=33 | saved=46/1000
+2026-06-13 04:03:03,051 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=2 | found=33 | new=32 | saved=46/1000
+2026-06-13 04:03:09,710 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=3 | found=33 | new=31 | saved=53/1000
+2026-06-13 04:03:16,422 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=4 | found=33 | new=32 | saved=59/1000
+2026-06-13 04:03:22,811 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=5 | found=33 | new=33 | saved=61/1000
+2026-06-13 04:03:29,928 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=6 | found=33 | new=33 | saved=61/1000
+2026-06-13 04:03:36,596 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=7 | found=33 | new=33 | saved=68/1000
+2026-06-13 04:03:42,508 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=8 | found=33 | new=33 | saved=76/1000
+2026-06-13 04:03:48,408 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=9 | found=33 | new=33 | saved=76/1000
+2026-06-13 04:03:54,610 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=10 | found=33 | new=33 | saved=77/1000
+2026-06-13 04:03:58,339 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=11 | found=33 | new=33 | saved=83/1000
+2026-06-13 04:04:05,401 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=12 | found=33 | new=33 | saved=91/1000
+2026-06-13 04:04:13,480 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=13 | found=33 | new=33 | saved=101/1000
+2026-06-13 04:04:20,900 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=14 | found=33 | new=33 | saved=109/1000
+2026-06-13 04:04:26,539 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=15 | found=33 | new=33 | saved=117/1000
+2026-06-13 04:04:31,951 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=16 | found=33 | new=33 | saved=121/1000
+2026-06-13 04:04:37,878 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=17 | found=33 | new=33 | saved=130/1000
+2026-06-13 04:04:42,200 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=18 | found=33 | new=33 | saved=135/1000
+2026-06-13 04:04:51,608 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=19 | found=33 | new=33 | saved=149/1000
+2026-06-13 04:04:58,430 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=20 | found=33 | new=33 | saved=159/1000
+2026-06-13 04:05:02,715 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=21 | found=33 | new=33 | saved=164/1000
+2026-06-13 04:05:05,511 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=22 | found=33 | new=33 | saved=167/1000
+2026-06-13 04:05:12,139 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=23 | found=33 | new=33 | saved=176/1000
+2026-06-13 04:05:17,336 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=24 | found=33 | new=33 | saved=181/1000
+2026-06-13 04:05:20,398 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=25 | found=33 | new=33 | saved=188/1000
+2026-06-13 04:05:27,571 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=26 | found=33 | new=33 | saved=199/1000
+2026-06-13 04:05:33,668 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=27 | found=33 | new=33 | saved=205/1000
+2026-06-13 04:05:37,053 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=28 | found=33 | new=33 | saved=208/1000
+2026-06-13 04:05:44,288 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=29 | found=33 | new=33 | saved=215/1000
+2026-06-13 04:05:56,408 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=30 | found=33 | new=33 | saved=226/1000
+2026-06-13 04:06:02,968 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=31 | found=33 | new=33 | saved=232/1000
+2026-06-13 04:06:11,937 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=32 | found=33 | new=33 | saved=245/1000
+2026-06-13 04:06:19,902 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=33 | found=33 | new=33 | saved=252/1000
+2026-06-13 04:06:27,426 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=34 | found=33 | new=33 | saved=263/1000
+2026-06-13 04:06:35,787 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=35 | found=33 | new=33 | saved=273/1000
+2026-06-13 04:06:43,488 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=36 | found=33 | new=33 | saved=283/1000
+2026-06-13 04:06:49,493 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=37 | found=33 | new=33 | saved=289/1000
+2026-06-13 04:06:55,459 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=38 | found=33 | new=33 | saved=298/1000
+2026-06-13 04:06:59,456 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=39 | found=33 | new=33 | saved=306/1000
+2026-06-13 04:07:06,621 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=40 | found=33 | new=33 | saved=313/1000
+2026-06-13 04:07:10,545 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=41 | found=33 | new=33 | saved=318/1000
+2026-06-13 04:07:17,975 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=42 | found=33 | new=33 | saved=325/1000
+2026-06-13 04:07:24,207 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=43 | found=33 | new=33 | saved=334/1000
+2026-06-13 04:07:29,972 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=44 | found=33 | new=33 | saved=340/1000
+2026-06-13 04:07:39,421 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=45 | found=33 | new=33 | saved=353/1000
+2026-06-13 04:07:45,128 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=46 | found=33 | new=33 | saved=360/1000
+2026-06-13 04:07:54,481 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=47 | found=33 | new=33 | saved=369/1000
+2026-06-13 04:08:00,451 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=48 | found=33 | new=33 | saved=379/1000
+2026-06-13 04:08:07,060 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=49 | found=33 | new=33 | saved=384/1000
+2026-06-13 04:08:10,302 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=50 | found=33 | new=3 | saved=390/1000
+2026-06-13 04:08:18,057 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=51 | found=33 | new=5 | saved=402/1000
+2026-06-13 04:08:25,222 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=52 | found=33 | new=5 | saved=412/1000
+2026-06-13 04:08:28,570 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=53 | found=33 | new=6 | saved=417/1000
+2026-06-13 04:08:31,836 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=54 | found=33 | new=4 | saved=420/1000
+2026-06-13 04:08:35,511 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=55 | found=33 | new=3 | saved=427/1000
+2026-06-13 04:08:37,534 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=56 | found=33 | new=4 | saved=428/1000
+2026-06-13 04:08:43,714 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=57 | found=33 | new=5 | saved=438/1000
+2026-06-13 04:08:47,600 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=58 | found=33 | new=5 | saved=445/1000
+2026-06-13 04:08:54,780 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=59 | found=33 | new=5 | saved=451/1000
+2026-06-13 04:09:02,507 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=60 | found=33 | new=3 | saved=463/1000
+2026-06-13 04:09:09,774 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=61 | found=33 | new=5 | saved=474/1000
+2026-06-13 04:09:16,967 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=62 | found=33 | new=2 | saved=482/1000
+2026-06-13 04:09:19,114 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=63 | found=33 | new=6 | saved=485/1000
+2026-06-13 04:09:24,800 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=64 | found=33 | new=4 | saved=496/1000
+2026-06-13 04:09:28,383 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=65 | found=33 | new=5 | saved=500/1000
+2026-06-13 04:09:36,647 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=66 | found=33 | new=4 | saved=509/1000
+2026-06-13 04:09:46,319 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=67 | found=33 | new=4 | saved=516/1000
+2026-06-13 04:09:53,442 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=68 | found=33 | new=4 | saved=526/1000
+2026-06-13 04:10:02,811 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=69 | found=33 | new=5 | saved=535/1000
+2026-06-13 04:10:06,910 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=70 | found=33 | new=5 | saved=540/1000
+2026-06-13 04:10:12,279 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=71 | found=33 | new=4 | saved=549/1000
+2026-06-13 04:10:15,801 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=72 | found=33 | new=6 | saved=556/1000
+2026-06-13 04:10:19,112 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=73 | found=33 | new=6 | saved=561/1000
+2026-06-13 04:10:23,243 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=74 | found=33 | new=4 | saved=566/1000
+2026-06-13 04:10:27,517 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=75 | found=33 | new=6 | saved=571/1000
+2026-06-13 04:10:33,876 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=76 | found=33 | new=3 | saved=581/1000
+2026-06-13 04:10:38,058 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=77 | found=33 | new=6 | saved=588/1000
+2026-06-13 04:10:41,369 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=78 | found=33 | new=7 | saved=590/1000
+2026-06-13 04:10:44,859 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=79 | found=33 | new=4 | saved=597/1000
+2026-06-13 04:10:49,808 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=80 | found=33 | new=4 | saved=602/1000
+2026-06-13 04:10:56,392 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=81 | found=33 | new=2 | saved=613/1000
+2026-06-13 04:11:00,424 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=82 | found=33 | new=4 | saved=619/1000
+2026-06-13 04:11:05,289 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=83 | found=33 | new=4 | saved=626/1000
+2026-06-13 04:11:07,614 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=84 | found=33 | new=5 | saved=630/1000
+2026-06-13 04:11:09,162 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=85 | found=33 | new=6 | saved=632/1000
+2026-06-13 04:11:15,316 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=86 | found=33 | new=3 | saved=641/1000
+2026-06-13 04:11:20,638 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=87 | found=33 | new=4 | saved=649/1000
+2026-06-13 04:11:26,970 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=88 | found=33 | new=5 | saved=657/1000
+2026-06-13 04:11:33,679 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=89 | found=33 | new=4 | saved=666/1000
+2026-06-13 04:11:38,995 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=90 | found=33 | new=6 | saved=671/1000
+2026-06-13 04:11:44,464 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=91 | found=33 | new=3 | saved=682/1000
+2026-06-13 04:11:51,375 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=92 | found=33 | new=3 | saved=689/1000
+2026-06-13 04:11:53,290 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=93 | found=33 | new=5 | saved=695/1000
+2026-06-13 04:11:56,586 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=94 | found=33 | new=5 | saved=697/1000
+2026-06-13 04:11:59,586 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=95 | found=33 | new=3 | saved=702/1000
+2026-06-13 04:12:04,071 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=96 | found=33 | new=5 | saved=707/1000
+2026-06-13 04:12:07,558 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=97 | found=33 | new=4 | saved=711/1000
+2026-06-13 04:12:09,788 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=98 | found=33 | new=3 | saved=715/1000
+2026-06-13 04:12:15,365 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=99 | found=33 | new=4 | saved=723/1000
+2026-06-13 04:12:18,713 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=100 | found=33 | new=3 | saved=728/1000
+2026-06-13 04:12:23,522 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=101 | found=33 | new=6 | saved=733/1000
+2026-06-13 04:12:25,485 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=102 | found=33 | new=6 | saved=736/1000
+2026-06-13 04:12:31,664 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=103 | found=33 | new=4 | saved=744/1000
+2026-06-13 04:12:36,731 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=104 | found=33 | new=3 | saved=751/1000
+2026-06-13 04:12:39,064 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=105 | found=33 | new=3 | saved=755/1000
+2026-06-13 04:12:45,362 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=106 | found=33 | new=5 | saved=765/1000
+2026-06-13 04:12:51,570 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=107 | found=33 | new=5 | saved=773/1000
+2026-06-13 04:12:56,726 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=108 | found=33 | new=3 | saved=780/1000
+2026-06-13 04:13:02,889 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=109 | found=33 | new=2 | saved=792/1000
+2026-06-13 04:13:05,643 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=110 | found=33 | new=5 | saved=797/1000
+2026-06-13 04:13:10,884 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=111 | found=33 | new=3 | saved=802/1000
+2026-06-13 04:13:15,602 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=112 | found=33 | new=6 | saved=811/1000
+2026-06-13 04:13:21,531 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=113 | found=33 | new=2 | saved=822/1000
+2026-06-13 04:13:27,321 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=114 | found=33 | new=5 | saved=830/1000
+2026-06-13 04:13:29,393 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=115 | found=33 | new=5 | saved=833/1000
+2026-06-13 04:13:34,676 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=116 | found=33 | new=4 | saved=840/1000
+2026-06-13 04:13:39,508 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=117 | found=33 | new=2 | saved=847/1000
+2026-06-13 04:13:42,404 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=118 | found=33 | new=3 | saved=850/1000
+2026-06-13 04:13:48,828 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=119 | found=33 | new=4 | saved=859/1000
+2026-06-13 04:13:53,559 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=120 | found=33 | new=4 | saved=866/1000
+2026-06-13 04:13:57,549 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=121 | found=33 | new=4 | saved=872/1000
+2026-06-13 04:14:03,913 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=122 | found=33 | new=6 | saved=880/1000
+2026-06-13 04:14:06,027 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=123 | found=33 | new=6 | saved=882/1000
+2026-06-13 04:14:10,379 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=124 | found=33 | new=5 | saved=887/1000
+2026-06-13 04:14:12,200 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=125 | found=33 | new=3 | saved=892/1000
+2026-06-13 04:14:15,420 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=126 | found=33 | new=6 | saved=898/1000
+2026-06-13 04:14:20,266 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=127 | found=33 | new=5 | saved=903/1000
+2026-06-13 04:14:22,026 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=128 | found=33 | new=5 | saved=907/1000
+2026-06-13 04:14:24,894 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=129 | found=33 | new=6 | saved=911/1000
+2026-06-13 04:14:29,925 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=130 | found=33 | new=4 | saved=918/1000
+2026-06-13 04:14:33,781 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=131 | found=33 | new=3 | saved=923/1000
+2026-06-13 04:14:37,998 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=132 | found=33 | new=3 | saved=929/1000
+2026-06-13 04:14:45,938 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=133 | found=33 | new=3 | saved=941/1000
+2026-06-13 04:14:50,711 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=134 | found=33 | new=7 | saved=948/1000
+2026-06-13 04:14:55,335 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=135 | found=33 | new=6 | saved=955/1000
+2026-06-13 04:14:58,175 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=136 | found=33 | new=6 | saved=958/1000
+2026-06-13 04:15:00,846 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=137 | found=33 | new=5 | saved=960/1000
+2026-06-13 04:15:04,777 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=138 | found=33 | new=5 | saved=969/1000
+2026-06-13 04:15:11,086 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=139 | found=33 | new=4 | saved=977/1000
+2026-06-13 04:15:17,383 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=140 | found=33 | new=6 | saved=985/1000
+2026-06-13 04:15:23,684 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=141 | found=33 | new=5 | saved=995/1000
+2026-06-13 04:15:25,986 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=142 | found=33 | new=4 | saved=999/1000
+2026-06-13 04:15:27,889 | INFO | Page crawled: https://www.olx.com.pk/items/q-smartphones/?page=143 | found=33 | new=6 | saved=1003/1000
+2026-06-13 04:15:27,893 | INFO | Target of 1000 products reached.
+2026-06-13 04:15:27,893 | INFO | Waiting for remaining worker tasks (1015 pending)...
+2026-06-13 04:22:58,654 | INFO | ============================================================
+2026-06-13 04:22:58,654 | INFO | SCRAPE COMPLETE
+2026-06-13 04:22:58,654 | INFO | Concurrency: ThreadPoolExecutor with 8 workers
+2026-06-13 04:22:58,654 | INFO | Pages crawled: 143
+2026-06-13 04:22:58,654 | INFO | Detail tasks submitted: 2023
+2026-06-13 04:22:58,654 | INFO | Products saved (this run): 1570
+2026-06-13 04:22:58,654 | INFO | Errors skipped: 0
+2026-06-13 04:22:58,654 | INFO | Visited URLs (session): 1759
+2026-06-13 04:22:58,655 | INFO | Final DB counts -> products: 1616 | product_images: 24613
+2026-06-13 04:22:58,655 | INFO | Elapsed time: 1203.7 seconds (20.1 minutes)
+2026-06-13 04:22:58,655 | INFO | ============================================================
